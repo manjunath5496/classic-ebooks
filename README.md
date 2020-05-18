@@ -1,26 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>jQuery Table Filter example - http://vijayjoshi.org</title>
-		<style type="text/css">
-			body{margin:0 auto;font-family:verdana,arial;font-size:13px;width:100%;}
-			.tables{border:1px solid #000;margin:0 auto;width:600px;}
-			th,td{padding:5px;}
-			p{background-color:#ACAAFC;padding:10px;}
-			a{color:#fff;text-decoration:none;}
-			.even{color:#343234;background-color:#fff;}
-			.odd{color:#343234;background-color:#DCDEFC;}
-		</style>
-	</head
-	<body>
-		<div class="tables">
-			<p>
-				<a href="#" ><strong>Back to Home Page</strong></a>
-			</p>
-			<p>
-				<label for="search"><strong>Enter keyword to search </strong></label><input type="text" id="search"/><label>e.g. Newton, Hooke, Einstein</label>		
-			</p>
-			<table width="100%" id="tblData" class="target" bgcolor="#ACAAFC">
+
+<table width="100%" id="tblData" class="target" bgcolor="#ACAAFC">
 				<tbody>
 					<tr>
 						<th width="10%"> </th>
@@ -3486,98 +3465,6 @@ The Tao of Programming by Geoffrey James</td>
 
 
 
-				</tbody>
-			</table>
-		</div>
-		<script type="text/javascript" src="js/jquery.min.js"></script>
+</tbody>
+</table>
 		
-		<script>
-		
-		
-		// How many seconds to delay between downloads.
-var delay = 1000;
-// whether to use window.location or window.open
-// window.open is more convenient, but may be popup-blocked
-var window_open = false;
-// the filetypes to look for, in order of preference.
-// Make sure your browser won't try to preview these filetypes.
-var filetypes = ['epub', 'mobi', 'pdf'];
-
-var downloads = document.getElementsByClassName('download-buttons');
-var i = 0;
-var success = 0;
-
-function download() {
-  var children = downloads[i].children;
-  var hrefs = {};
-  for (var j = 0; j < children.length; j++) {
-    var href = children[j].getElementsByClassName('a')[0].href;
-    for (var k = 0; k < filetypes.length; k++) {
-      if (href.includes(filetypes[k])) {
-        hrefs[filetypes[k]] = href;
-        console.log('Found ' + filetypes[k] + ': ' + href);
-      }
-    }
-  }
-  var href = undefined;
-  for (var k = 0; k < filetypes.length; k++) {
-    if (hrefs[filetypes[k]] != undefined) {
-      href = hrefs[filetypes[k]];
-      break;
-    }
-  }
-  if (href != undefined) {
-    console.log('Downloading: ' + href);
-    if (window_open) {
-      window.open(href);
-    } else {
-      window.location = href;
-    }
-    success++;
-  }
-  i++;
-  console.log(i + '/' + downloads.length + '; ' + success + ' successes.');
-  if (i < downloads.length) {
-    window.setTimeout(download, delay);
-  }
-}
-download();
-		
-		</script>
-		
-		
-		
-		
-		<script type="text/javascript">
-			$(document).ready(function()
-			{
-				$('#search').keyup(function()
-				{
-					searchTable($(this).val());
-				});
-			});
-			function searchTable(inputVal)
-			{
-				var table = $('#tblData');
-				table.find('tr').each(function(index, row)
-				{
-					var allCells = $(row).find('td');
-					if(allCells.length > 0)
-					{
-						var found = false;
-						allCells.each(function(index, td)
-						{
-							var regExp = new RegExp(inputVal, 'i');
-							if(regExp.test($(td).text()))
-							{
-								found = true;
-								return false;
-							}
-						});
-						if(found == true)$(row).show();else $(row).hide();
-					}
-				});
-			}
-		</script>
-	</body>
-</html>
