@@ -206,5 +206,106 @@
 <p align="center"><span style="font-family: 'Trebuchet MS';">Sense and Sensibility&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/sense-and-sensibility.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">A Window in Thrums&nbsp;&nbsp;<a href="1/A%20Window%20In%20Thrums.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Alice Sit-By-The-Fire&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Alice%20Sit%20By%20The%20Fire.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Auld Licht Idyls&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.freeclassicebooks.com/2019%20New%20Free%20Classic%20ebooks/A-C/Barrie%20J%20M/HTML/Auld%20Licht%20Idyls.mht">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Better Dead&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Better%20Dead.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Courage&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Courage.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Dear Brutus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Dear%20Brutus.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Echoes of the War&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Echoes%20Of%20The%20War.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Margaret Ogilvy&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Margaret%20Ogilvy.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">My Lady Nicotine&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/My%20Lady%20Nicotine.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Peter and Wendy&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Peter%20And%20Wendy.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Peter Pan in Kensington Gardens&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Peter%20Pan%20In%20Kensington%20Gardens.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Peter Pan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Peter%20Pan.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Quality Street&nbsp;&nbsp;&nbsp;<a href="1/Quality%20Street.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Sentimental Tommy&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Sentimental%20Tommy.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">The Admirable Crichton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Admirable%20Crichton.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">The Little Minister&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Little%20Minister.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">The Little White Bird&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Little%20White%20Bird.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">The Young Visiters or, Mr. Salteena's Plan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Young%20Visiters%20or,%20Mr.%20Salteena's%20Plan.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">Tommy and Grizel&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tommy%20And%20Grizel.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p><span style="font-family: 'Trebuchet MS';">What Every Woman Knows&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/What%20Every%20Woman%20Knows.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
