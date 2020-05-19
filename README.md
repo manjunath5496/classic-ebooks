@@ -989,6 +989,26 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Don Quixote Volume 2&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Don%20Quixote%20Volume%202.pdf">[pdf]</a>&nbsp;</span></td>
 </tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Dickory Cronke&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Dickory%20Cronke.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Moll Flanders&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Moll%20Flanders.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Robinson Crusoe&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Robinson%20Crusoe.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Further Adventures of Robinson Crusoe&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Further%20Adventures%20Of%20Robinson%20Crusoe%20-%20Daniel%20Defeo.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
 
