@@ -456,5 +456,74 @@
 <p><span style="font-family: 'Trebuchet MS';">Villette&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Villette.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">At the Earth's core&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/At%20The%20Earth's%20Core.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Jungle Tales of Tarzan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Jungle%20Tales%20Of%20Tarzan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Out of Time's Abyss&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Out%20Of%20Time's%20Abyss.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Pellucidar&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Pellucidar.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Tarzan of the Apes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tarzan%20Of%20The%20Apes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Tarzan the Terrible&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tarzan%20The%20Terrible.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Tarzan the Untamed&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tarzan%20The%20Untamed.pdf">[pdf]&nbsp;</a>&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Beasts of Tarzan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Beasts%20Of%20Tarzan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Chessmen of Mars&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Chessmen%20Of%20Mars.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Efficiency Expert&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Efficiency%20Expert.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Gods of Mars&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Gods%20Of%20Mars.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Land That Time Forgot&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Land%20That%20Time%20Forgot.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Lost Continent&nbsp;&nbsp;&nbsp;<a href="1/The%20Lost%20Continent.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Mad King&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Mad%20King.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Monster Men&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Monster%20Men.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Mucker&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Mucker.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Oakdale Affair&nbsp;&nbsp;&nbsp;<a href="1/The%20Oakdale%20Affair.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Outlaw of Torn&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Outlaw%20Of%20Torn.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The People that Time Forgot&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20People%20That%20Time%20Forgot.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Return of Tarzan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Return%20Of%20Tarzan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Son of Tarzan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Son%20Of%20Tarzan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Thuvia of Mars&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Thuvia%20Of%20Mars.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Warlord of Mars&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Warlord%20Of%20Mars.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
