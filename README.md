@@ -977,5 +977,11 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">The Buckle My Shoe Picture Book&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Buckle%20My%20Shoe%20Picture%20Book.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Notebooks of Leonardo Da Vinci Complete&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Notebooks%20Of%20Leonardo%20Da%20Vinci%20Complete.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Thoughts on Art and Life&nbsp;&nbsp;&nbsp;<a href="1/Thoughts%20On%20Art%20And%20Life.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
