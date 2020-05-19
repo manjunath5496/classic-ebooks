@@ -740,5 +740,104 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">The Secret Adversary&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Secret%20Adversary.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Fair Penitent&nbsp;&nbsp;&nbsp;<a href="1/A%20Fair%20Penitent.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Rogue's Life&nbsp;&nbsp;&nbsp;<a href="1/A%20Rogue's%20Life.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">After Dark&nbsp;&nbsp;&nbsp;<a href="1/After%20Dark.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Antonina&nbsp;&nbsp;&nbsp;<a href="1/Antonina.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Armadale&nbsp;&nbsp;&nbsp;<a href="1/Armadale.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Basil&nbsp;&nbsp;&nbsp;<a href="1/Basil.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Blind Love&nbsp;&nbsp;&nbsp;<a href="1/Blind%20Love.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Heart and Science&nbsp;&nbsp;&nbsp;<a href="1/Heart%20And%20Science.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Hide and Seek&nbsp;&nbsp;&nbsp;<a href="1/Hide%20And%20Seek.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">I Say No&nbsp;&nbsp;&nbsp;<a href="1/I%20Say%20No.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Jezebel&nbsp;&nbsp;&nbsp;<a href="1/Jezebel.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Little Novels&nbsp;&nbsp;&nbsp;<a href="1/Little%20Novels.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Man and Wife&nbsp;&nbsp;&nbsp;<a href="1/Man%20And%20Wife.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Miss or Mrs&nbsp;&nbsp;&nbsp;<a href="1/Miss%20Or%20Mrs.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">My Lady's Money&nbsp;&nbsp;&nbsp;<a href="1/My%20Lady's%20Money.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">No Name&nbsp;&nbsp;&nbsp;<a href="1/No%20Name.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Poor Miss Finch&nbsp;&nbsp;&nbsp;<a href="1/Poor%20Miss%20Finch.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Rambles Beyond Railways&nbsp;&nbsp;&nbsp;<a href="1/Rambles%20Beyond%20Railways.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Sisar Rosa&nbsp;&nbsp;&nbsp;<a href="1/Sisar%20Rosa.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Black Robe&nbsp;&nbsp;&nbsp;<a href="1/The%20Black%20Robe.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Dead Alive&nbsp;&nbsp;&nbsp;<a href="1/The%20Dead%20Alive.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Evil Genius&nbsp;&nbsp;&nbsp;<a href="1/The%20Evil%20Genius.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Fallen Leaves&nbsp;&nbsp;&nbsp;<a href="1/The%20Fallen%20Leaves.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Frozen Deep&nbsp;&nbsp;&nbsp;<a href="1/The%20Frozen%20Deep.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Guilty River&nbsp;&nbsp;&nbsp;<a href="1/The%20Guilty%20River.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Haunted Hotel&nbsp;&nbsp;&nbsp;<a href="1/The%20Haunted%20Hotel.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Law and the Lady&nbsp;&nbsp;&nbsp;<a href="1/The%20Law%20And%20The%20Lady.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Legacy of Cain&nbsp;&nbsp;&nbsp;<a href="1/The%20Legacy%20Of%20Cain.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Moonstone&nbsp;&nbsp;&nbsp;<a href="1/The%20Moonstone.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The New Magdalen&nbsp;&nbsp;&nbsp;<a href="1/The%20New%20Magdalen.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Queen of Hearts&nbsp;&nbsp;&nbsp;<a href="https://www.freeclassicebooks.com/2019%20New%20Free%20Classic%20ebooks/A-C/Collins%20Wilkie/HTML/The%20Queen%20Of%20Hearts.mht">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Two Destinies&nbsp;&nbsp;&nbsp;<a href="1/The%20Two%20Destinies.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Woman in White&nbsp;&nbsp;&nbsp;<a href="1/The%20Woman%20In%20White.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
