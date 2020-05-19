@@ -554,5 +554,185 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">A History of the United States&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20History%20Of%20The%20United%20States.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">A Miscellany of Men&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Miscellany%20of%20Men.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">A Short History of England&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Short%20History%20Of%20England.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Alarms and Discursions&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Alarms%20And%20Discursions.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Appreciations and Criticisms of the Works&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Appreciations%20And%20Criticisms%20Of%20The%20Works%20Of%20Charles%20Dickens.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">George Bernard Shaw&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/George%20Bernard%20Shaw.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Greybeards at Play&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Greybeards%20At%20Play.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Heretics&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Heretics.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Lord Kitchener&nbsp;&nbsp;&nbsp;<a href="1/Heretics.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Magic&nbsp;&nbsp;<a href="1/Magic.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Manalive&nbsp;&nbsp;&nbsp;<a href="1/Manalive.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Orthodoxy&nbsp;&nbsp;&nbsp;<a href="1/Orthodoxy.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Poems&nbsp;&nbsp;&nbsp;<a href="1/Poems.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Robert Browning&nbsp;&nbsp;&nbsp;<a href="1/Robert%20Browning.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">St Barbara&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/St%20Barbara.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Appetite of Tyranny&nbsp;&nbsp;&nbsp;<a href="1/The%20Appetite%20Of%20Tyranny.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Ball and The Cross&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Ball%20And%20The%20Cross.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Ballad of the White Horse&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Ballad%20Of%20The%20White%20Horse.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Barbarism of Berlin&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Barbarism%20Of%20Berlin.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Club of Queer Trades&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Club%20Of%20Queer%20Trades.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Crimes of England&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Crimes%20Of%20England.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Defendant&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Defendant.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Innocence of Father Brown&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Innocence%20Of%20Father%20Brown.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Man Who Knew Too Much&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Man%20Who%20Knew%20Too%20Much.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Man Who Was Thursday&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Man%20Who%20Was%20Thursday.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Napoleon of Notting Hill&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Man%20Who%20Was%20Thursday.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The New Jerusalem&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20New%20Jerusalem.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Trees of Pride&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Trees%20of%20Pride.pdf">[pdf]</a>&nbsp;&nbsp;<a href="https://www.freeclassicebooks.com/2019%20New%20Free%20Classic%20ebooks/A-C/Chesterton%20G%20K/prc/The%20Trees%20of%20Pride.prc">[Kinde / prc]</a></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Victorian Age in Literature&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Victorian%20Age%20In%20Literature.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Wild Knight and Other Poems&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Wild%20Knight%20And%20Other%20Poems.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Wisdom of Father Brown&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Wisdom%20Of%20Father%20Brown.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Tremendous Trifles&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tremendous%20Trifles.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Twelve Types&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Twelve%20Types.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Usurers and other Essays&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Usurers%20And%20Other%20Essays.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Varied Types&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Varied%20Types.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">What I Saw in America&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/What%20I%20Saw%20In%20America.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">What's Wrong with the World&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Whats%20Wrong%20With%20The%20World.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
