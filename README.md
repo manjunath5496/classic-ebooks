@@ -1012,6 +1012,81 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">The Judicial Murder of Mary E. Surratt&nbsp;&nbsp;&nbsp;<a href="1/The%20Judicial%20Murder%20Of%20Mary%20E.%20Surratt.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">A Christmas Carol&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Christmas%20Carol.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">A Tale of Two Cities&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Tale%20Of%20Two%20Cities.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Barnaby Rudge&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Barnaby%20Rudge.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Bleak House&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Bleak%20House.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">David Copperfield&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/David%20Copperfield.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Dombey and Son&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Donbey%20and%20Son.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Great Expectations&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Great%20Expectations.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Hard Times&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Hard%20Times.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Little Dorrit&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Little%20Dorrit.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Martin Chusslewit&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Martin%20Chuzzlewit.pdf">[pdf]</a>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Nicholas Nickleby&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Nicholas%20Nickleby.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Oliver Twist&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Oliver%20Twist.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Our Mutual Friend&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Our%20Mutual%20Friend.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Old Curiosity Shop&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Old%20Curiosity%20Shop.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Pickwick Papers&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Pickwick%20Papers.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
 
