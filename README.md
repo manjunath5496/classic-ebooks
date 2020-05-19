@@ -1009,6 +1009,9 @@
 <p><span style="font-family: 'Trebuchet MS';">The Further Adventures of Robinson Crusoe&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Further%20Adventures%20Of%20Robinson%20Crusoe%20-%20Daniel%20Defeo.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Judicial Murder of Mary E. Surratt&nbsp;&nbsp;&nbsp;<a href="1/The%20Judicial%20Murder%20Of%20Mary%20E.%20Surratt.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
 
