@@ -938,5 +938,44 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Youth&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Youth.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Floral Fantasy in an Old English Garden&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Floral%20Fantasy%20In%20An%20Old%20English%20Garden.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Masque of Days&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Masque%20Of%20Days.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Winter Nosegay&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Winter%20Nosegay.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">An Alphabet Of Old Friends&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/An%20Alphabet%20Of%20Old%20Friends.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Goody Two Shoes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Goody%20Two%20Shoes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Mother Gooses Nursery Rhymes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mother%20Goose;s%20Nursery%20Rhymes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Princess Belle&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Princess%20Belle.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Queen Summer&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Queen%20Summer.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Song of Sixpence&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Song%20Of%20Sixpence.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Absurd ABC&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Absurd%20ABC.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Baby's Opera&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Babys%20Opera.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Baby's Own Aesop&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Babys%20Own%20Aesop.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Buckle My Shoe Picture Book&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Buckle%20My%20Shoe%20Picture%20Book.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
