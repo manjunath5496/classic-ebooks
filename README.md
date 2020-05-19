@@ -1936,9 +1936,7 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Discourses on the First Decade of Titus Livius&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Discourses%20On%20The%20First%20Decade%20Of%20Titus%20Livius.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
-<tr>
-<td><span style="font-family: 'Trebuchet MS';">First Decade of Titus Livius&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/First%20Decade%20Of%20Titus%20Livius.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
-</tr>
+
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">History of Florence And of The Affairs of Italy&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/History%20Of%20Florence%20And%20Of%20The%20Affairs%20Of%20Italy.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
