@@ -525,5 +525,25 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Warlord of Mars&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Warlord%20Of%20Mars.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Through the Looking Glass&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Through%20The%20Looking%20Glass.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Phantasmagoria and Other Poems&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Phantasmagoria%20And%20Other%20Poems.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Hunting of the Snark&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Hunting%20Of%20The%20Snark.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Alice's Adventures In Wonderland&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Alice's%20Adventures%20In%20Wonderland.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
