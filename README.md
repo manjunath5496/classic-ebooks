@@ -1093,6 +1093,123 @@
 </td>
 </tr>
 
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Ali Pacha&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Ali%20Pacha.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Chicot the Jester&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Chicot%20the%20Jester.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Louise de la Valliere&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Louise%20de%20la%20Valliere.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Ten Years Later&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Ten%20Years%20Later.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Black Tulip&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Black%20Tulip.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Companions of Jehu&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Companions%20of%20Jehu.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Count of Monte Cristo&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Count%20of%20Monte%20Cristo.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Forty-Five Guardsmen&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Forty-Five%20Guardsmen.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Man In The Iron Mask&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Man%20In%20The%20Iron%20Mask.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Three Musketeers&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Three%20Musketeers.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Twenty Years After&nbsp;&nbsp;&nbsp;<a href="1/Twenty%20Years%20After.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Vicomte de Bragelonne&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Vicomte%20de%20Bragelonne.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Adam Bede&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Adam%20Bede.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Daniel Deronda&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Daniel%20Deronda.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Felix Holt, the Radical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Felix%20Holt,%20the%20Radical.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Middlemarch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Middlemarch.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Romola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Romola.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Silas Marner&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Silas%20Marner.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Mill on the Floss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Mill%20on%20the%20Floss.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Memoirs of My Life and Writings&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Memoirs%20of%20My%20Life%20And%20Writings.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 1&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20Of%20The%20Roman%20Empire%20Vol%201.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 2&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20Of%20The%20Roman%20Empire%20Vol%202.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 3&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20Of%20The%20Roman%20Empire%20Vol%203.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 4&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20of%20The%20Roman%20Empire%20Vol%204.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 5&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20of%20The%20Roman%20Empire%20Vol%205.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The History of The Decline and Fall of the Roman Empire Vol 6&nbsp;&nbsp;&nbsp;<a href="1/The%20History%20Of%20The%20Decline%20And%20Fall%20Of%20The%20Roman%20Empire%20Vol%206.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Dream Days&nbsp; &nbsp;&nbsp;&nbsp;<a href="1/Dream%20Days.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Pagan Papers&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Pagan%20Papers.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Golden Age &nbsp;&nbsp;&nbsp;<a href="1/The%20Golden%20Age.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Headswoman &nbsp;&nbsp;&nbsp;<a href="1/The%20Headswoman.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">The Wind in the Willows &nbsp;&nbsp;&nbsp;<a href="1/The%20Wind%20In%20The%20Willows.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
 
