@@ -90,11 +90,6 @@
 <p align="center"><span style="font-family: 'Trebuchet MS';">Work A Story of Experience&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Alcott%20Louisa%20M/novels/pdf/Work%20A%20Story%20Of%20Experience.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
-</tbody>
-</table>
-<p align="center">&nbsp;</p>
-<table border="1" width="100%">
-<tbody>
 <tr>
 <td>
 <p align="center"><span style="font-family: 'Trebuchet MS';">A Country Christmas&nbsp;&nbsp;&nbsp;<a href="1/Alcott%20Louisa%20M/short%20stories/pdf/A%20Country%20Christmas.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
