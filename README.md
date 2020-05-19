@@ -1087,6 +1087,12 @@
 <p><span style="font-family: 'Trebuchet MS';">The Pickwick Papers&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Pickwick%20Papers.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Crime and Punishment&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Crime And Punishment.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+
 </tbody>
 </table>
 
