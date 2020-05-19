@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td>
-<p align="center"><span style="font-family: 'Trebuchet MS';">The Abbot's Ghost; or, Maurice Treherne's Temptation&nbsp;&nbsp;&nbsp;<a href="1/The%20Abbot's%20Ghost;%20Or,%20Maurice%20Treherne's%20Temptation.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+<p align="center"><span style="font-family: 'Trebuchet MS';">The Abbot's Ghost; or, Maurice Treherne's Temptation&nbsp;&nbsp;&nbsp;<a href="1/The Abbot's Ghost.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
 <tr>
