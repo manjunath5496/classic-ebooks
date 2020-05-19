@@ -1210,6 +1210,423 @@
 <p><span style="font-family: 'Trebuchet MS';">The Wind in the Willows &nbsp;&nbsp;&nbsp;<a href="1/The%20Wind%20In%20The%20Willows.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Fairy Tales&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Fairy%20Tales.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Household Tales&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Household%20Tales.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Tale of Three Lions &nbsp;&nbsp;&nbsp;<a href="1/A%20Tale%20Of%20Three%20Lions.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Allan and the Holy Flower&nbsp;&nbsp;&nbsp;<a href="1/Allan%20And%20The%20Holy%20Flower.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Allan Quatermain&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Allan%20And%20The%20Holy%20Flower.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Allans Wife&nbsp;&nbsp;&nbsp;<a href="1/Allan's%20Wife.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">An African Romance&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/An%20African%20Romance.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Ayesha&nbsp;&nbsp;&nbsp;<a href="1/Ayesha.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Beatrice&nbsp;&nbsp;&nbsp;<a href="1/Beatrice.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Black Heart and White Heart&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Black%20Heart%20And%20White%20Heart.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Cetywayo and his White Neighbours&nbsp;&nbsp;&nbsp;<a href="1/Cetywayo%20And%20His%20White%20Neighbours.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Child of Storm&nbsp;&nbsp;&nbsp;<a href="1/Child%20Of%20Storm.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Cleopatra&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Cleopatra.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Colonel Quaritch&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Colonel%20Quaritch.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Dawn&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Dawn.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Doctor Therne&nbsp;&nbsp;&nbsp;<a href="1/Doctor%20Therne.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Eric Brighteyes&nbsp;&nbsp;&nbsp;<a href="1/Eric%20Brighteyes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Fair Margaret&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Fair%20Margaret.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Finished&nbsp;&nbsp;&nbsp;<a href="1/Finished.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Hunter Quatermain&nbsp;&nbsp;&nbsp;<a href="1/Hunter%20Quatermain's%20Story.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Jess&nbsp;&nbsp;&nbsp;<a href="1/Jess.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">King Solomons Mines&nbsp;&nbsp;&nbsp;<a href="1/King%20Solomon's%20Mines.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Long Odds&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Long%20Odds.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Love Eternal&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Love%20Eternal.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Lysbeth&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Lysbeth.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Maiwas Revenge&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Maiwa's%20Revenge.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Marie&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Marie.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Montezuma's Daughter&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Montezuma's%20Daughter.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Moon of Israel&nbsp;&nbsp;&nbsp;<a href="1/Moon%20Of%20Israel.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Morning Star&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Morning%20Star.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Mr Meesons Will&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mr%20Meeson's%20Will.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Nada the Lil&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Nada%20The%20Lil.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Pearl Maiden&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Pearl-Maiden.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Queen Sheba's Ring&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Queen%20Sheba's%20Ring.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Red Eve&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Red%20Eve.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Regeneration&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Regeneration.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">She&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/She.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">She and Allan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/She%20And%20Allan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Smith and the Pharaohs and Other Tales&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Smith%20And%20The%20Pharaohs%20And%20Other%20Tales.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Stella Fregelius&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Stella%20Fregelius.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Swallow&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Swallow.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Ancient Allan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Ancient%20Allan.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Brethren&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Brethren.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Ghost Kings&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Ghost%20Kings.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Lady Of Blossholme&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Lady%20Of%20Blossholme.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Mahatma and the Hare&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Mahatma%20and%20the%20Hare.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The People Of The Mist&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20People%20Of%20The%20Mist.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Virgin of the Sun&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Virgin%20Of%20The%20Sun.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Wanderer's Necklace&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Wanderer's%20Necklace.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Wizard&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Wizard.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Yellow God&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Yellow%20God.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">When the World Shook&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/When%20The%20World%20Shook.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td>Tess of the d'Urbervilles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tess%20Of%20The%20D'Urbervilles.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Mayor of Casterbridge&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mayor%20Of%20Casterbridge.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Under the Greenwood Tree&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Under%20The%20Greenwood%20Tree.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Woodlanders&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Woodlanders.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Trumpet Major&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Trumpet%20Major.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Return of the Native&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Return%20Of%20The%20Native.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Life's Little Ironies&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Life's%20Little%20Ironies.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Far From The Madding Crowd&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Far%20From%20The%20Madding%20Crowd.pdf">[pdf]&nbsp;</a>&nbsp;</td>
+</tr>
+<tr>
+<td>A Pair of Blue Eyes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Pair%20Of%20Blue%20Eyes.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>A Group Of Noble Dames&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Group%20Of%20Noble%20Dames.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Two on a Tower&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Two%20On%20A%20Tower.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Well-Beloved&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Well-Beloved.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Romantic Adventures of a Milkmaid&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Romantic%20Adventures%20Of%20A%20Milkmaid.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Hand of Ethelberta&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Hand%20Of%20Ethelberta.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Jude The Obscure&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Jude%20The%20Obscure.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Desperate Remedies&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Desperate%20Remedies.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>A Laodicean&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Laodicean.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>A Changed Man And Other Tales&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Changed%20Man%20And%20Other%20Tales.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Moments of Vision&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Moments%20Of%20Vision.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Wessex Poems and Other Verses&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Wessex%20Poems%20And%20Other%20Verses.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Late Lyrics And Earlier&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Late%20Lyrics%20And%20Earlier.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Three Strangers&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Three%20Strangers.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Squire Petricks Lady&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Squire%20Petrick's%20Lady.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Fellow Townsmen&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Fellow%20Townsmen.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Withered Arm&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Withered%20Arm.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Distracted Preacher&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Distracted%20Preacher.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Interlopers at the Knap&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Interlopers%20At%20The%20Knap.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>An Imaginative Woman&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/An%20Imaginative%20Woman.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>A Mere Interlude&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Mere%20Interlude.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>The Dynasts&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Dynasts.pdf">[pdf]</a>&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Knulp&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Knulp.pdf">[pdf]</a>&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Siddhartha&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Siddhartha.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td>
+<p>A Fair Barbarian&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Fair%20Barbarian.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A Lady Of Quality&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Lady%20Of%20Quality.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A Little Princess&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Little%20Princess.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emily Fox-Seton&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Emily%20Fox-Seton.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Esmeralda&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Esmeralda.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>His Grace of Osmonde&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/His%20Grace%20Of%20Osmonde.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>In Connection With the De Willoughby Claim&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/In%20Connection%20With%20The%20De%20Willoughby%20Claim.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>In the Closed Room&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/In%20The%20Closed%20Room.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Le Monsieur De La Petite Dame&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Le%20Monsieur%20De%20La%20Petite%20Dame.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Little Lord Fauntleroy&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Little%20Lord%20Fauntleroy.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Little Saint Elizabeth and Other Stories&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Little%20Saint%20Elizabeth%20And%20Other%20Stories.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lodusky&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Lodusky.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M&egrave;re Girauds Little Daughter&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/M%C3%A8re%20Giraud's%20Little%20Daughter.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>My Robin&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/My%20Robin.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>One Day At Arle&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/One%20Day%20At%20Arle.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Racketty-Packetty House&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Racketty-Packetty%20House.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>My Robin&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/My%20Robin.pdf">[pdf]</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sara Crewe&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Sara%20Crewe.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seth&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Seth.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Surly Tim&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Surly%20Tim.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Tembarom&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/T.%20Tembarom.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>That Lass O' Lowrie's&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/That%20Lass%20O'%20Lowrie's.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Dawn of A To-morrow&nbsp;&nbsp;&nbsp; [<a href="1/The%20Dawn%20of%20To-mmorrow.pdf">pdf</a>]&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Head of the House of Coombe&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Head%20Of%20The%20House%20Of%20Coombe.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Land of the Blue Flower&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Land%20Of%20The%20Blue%20Flower.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Little Hunchback Zia&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Little%20Hunchback%20Zia.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Lost Prince&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Lost%20Prince.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Pretty Sister Of Jos&eacute;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Pretty%20Sister%20Of%20Jos%C3%A9.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Secret Garden&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Secret%20Garden.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The Shuttle&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Shuttle.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>The White People&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20White%20People.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Theo&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Theo.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vagabondia&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Vagabondia.pdf">[pdf]</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 
