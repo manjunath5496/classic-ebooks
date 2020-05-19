@@ -307,5 +307,128 @@
 <p><span style="font-family: 'Trebuchet MS';">What Every Woman Knows&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/What%20Every%20Woman%20Knows.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">A Kidnapped Santa Claus&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Kidnapped%20Santa%20Claus.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">American Fairy Tales&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/American%20Fairy%20Tales.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces in Society&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Neices%20In%20Society.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces In The Red Cross&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Neices%20In%20The%20Red%20Cross.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces on Vacation&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Neices%20On%20Vacation.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces Abroad&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Nieces%20Abroad.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces and Uncle John&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Nieces%20And%20Uncle%20John.pdf">[pdf]</a>&nbsp;</span>&nbsp;</td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces at Millville&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Nieces%20At%20Millville.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces at Work&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Nieces%20At%20Work.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Aunt Jane's Nieces Out West&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Aunt%20Jane's%20Nieces%20Out%20West.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Dorothy and the Wizard in Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Dorothy%20And%20The%20Wizard%20In%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Glinda of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Glinda%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Little Wizard Stories of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Little%20Wizard%20Stories%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Marvellous Land of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Marvelous%20Land%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Mary Louise&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mary%20Louise.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Mary Louise and the Liberty Girls&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mary%20Louise%20And%20The%20Liberty%20Girls.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Mary Louise in the Country&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mary%20Louise%20In%20The%20Country.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Mary Louise Solves a Mystery&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mary%20Louise%20Solves%20A%20Mystery.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Mother Goose in Prose&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mother%20Goose%20In%20Prose.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Ozma of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Ozma%20of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Policeman Bluejay&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Policeman%20Bluejay.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Rinkitink in Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Rinkitink%20In%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Sky Island&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Sky%20Island.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Emerald City of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Emerald%20City%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Enchanted Island of Yew&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Enchanted%20Island%20Of%20Yew.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Life and Adventures of Santa Claus&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Life%20and%20Adventures%20Of%20Santa%20Claus.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Lost Princess of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Lost%20Princess%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Magic of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Magic%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Master Key&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Master%20Key.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Patchwork Girl of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Patchwork%20Girl%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Road to Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Road%20To%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Royal Book of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Royal%20Book%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Scarecrow of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Scarecrow%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Sea Fairies&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Sea%20Fairies.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Surprising Adventures of the Magical Monarch of Mo&nbsp;and His People&nbsp;&nbsp;<a href="1/The%20Surprising%20Adventures%20Of%20The%20Magical%20Monarch%20Of%20Mo%20And%20His%20People.pdf">[pdf]</a>&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Tin Woodman of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Tin%20Woodman%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Woggle-Bug Book&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Woggle-Bug%20Book.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Tik of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tik%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">Twinkle and Chubbins&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Twinkle%20And%20Chubbins.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center">
+<p align="center"><span style="font-family: 'Trebuchet MS';">Wonderful Wizard of Oz&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Wonderful%20Wizard%20Of%20Oz.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
