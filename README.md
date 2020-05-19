@@ -839,5 +839,104 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">The Woman in White&nbsp;&nbsp;&nbsp;<a href="1/The%20Woman%20In%20White.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Personal Record&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Personal%20Record.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A Set of Six&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20Set%20Of%20Six.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Almayers Folly&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Almayers%20Folly.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Amy Foster&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Amy%20Foster.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">An Outcast of the Islands&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/An%20Outcast%20Of%20The%20Islands.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Chance&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Chance.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">End of the Tether&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/End%20Of%20The%20Tether.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Falk&nbsp;&nbsp;&nbsp;<a href="1/Falk.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Gaspar Ruiz&nbsp;&nbsp;&nbsp;<a href="1/Gaspar%20Ruiz.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Heart of Darkness&nbsp;&nbsp;&nbsp;<a href="1/Heart%20Of%20Darkness.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Lord Jim&nbsp;&nbsp;&nbsp;<a href="1/Lord%20Jim.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Nostromo A Tale of the Seaboard&nbsp;&nbsp;&nbsp;<a href="1/Nostromo%20A%20Tale%20Of%20The%20Seaboard.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Notes on Life and Letters&nbsp;&nbsp;&nbsp;<a href="1/Notes%20On%20Life%20And%20Letters.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">One Day More&nbsp;&nbsp;&nbsp;<a href="1/One%20Day%20More.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Romance&nbsp;&nbsp;&nbsp;<a href="1/Romance.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Some Reminiscences&nbsp;&nbsp;&nbsp;<a href="1/Some%20Reminiscences.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Tales Of Hearsay&nbsp;&nbsp;&nbsp;<a href="1/Tales%20Of%20Hearsay.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Tales of Unrest&nbsp;&nbsp;&nbsp;<a href="1/Tales%20Of%20Unrest.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Arrow of Gold&nbsp;&nbsp;&nbsp;<a href="1/The%20Arrow%20Of%20Gold.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Inheritors&nbsp;&nbsp;&nbsp;<a href="1/The%20Inheritors.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Mirror of the Sea&nbsp;&nbsp;&nbsp;<a href="1/The%20Mirror%20Of%20The%20Sea.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Point Of Honor&nbsp;&nbsp;&nbsp;<a href="1/The%20Point%20Of%20Honor.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Rescue&nbsp;&nbsp;&nbsp;<a href="1/The%20Rescue.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Secret Agent&nbsp;&nbsp;&nbsp;<a href="1/The%20Secret%20Agent.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Secret Sharer&nbsp;&nbsp;&nbsp;<a href="1/The%20Secret%20Sharer.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Shadow&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Shadow.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Tomorrow&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Tomorrow.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Twixt Land and Sea&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Twixt%20Land%20And%20Sea.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Typhoon&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Typhoon.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Under Western Eyes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Under%20Western%20Eyes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Victory&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Victory.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Within the Tides&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Within%20The%20Tides.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Youth&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Youth.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
