@@ -545,5 +545,11 @@
 <p><span style="font-family: 'Trebuchet MS';">Alice's Adventures In Wonderland&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Alice's%20Adventures%20In%20Wonderland.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">The Canterbury Tales and Other Poems&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Canterbury%20Tales%20And%20Other%20Poems.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Troilus and Criseyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Troilus%20And%20Criseyde.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
