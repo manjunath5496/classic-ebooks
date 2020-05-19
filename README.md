@@ -734,5 +734,11 @@
 <p><span style="font-family: 'Trebuchet MS';">What's Wrong with the World&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Whats%20Wrong%20With%20The%20World.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Mysterious Affair at Styles&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Mysterious%20Affair%20At%20Styles.pdf">[pdf]</a>&nbsp;</span></td>
+</tr>
+<tr>
+<td align="center"><span style="font-family: 'Trebuchet MS';">The Secret Adversary&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Secret%20Adversary.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
