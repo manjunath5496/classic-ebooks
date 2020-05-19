@@ -170,5 +170,41 @@
 <p align="center"><span style="font-family: 'Trebuchet MS';">What the Bell Saw and Said&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/What%20The%20Bell%20Saw%20And%20Said.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
+
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Emma&nbsp;&nbsp;&nbsp;<a href="1/Emma.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Lady Susan&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Lady%20Susan.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Mansfield Park&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mansfield%20Park.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Northanger Abbey&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Northanger%20Abbey.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Persuasion&nbsp;&nbsp;&nbsp;<a href="1/Persuasion.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Pride and Prejudice&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Pride%20And%20Prejudice.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><span style="font-family: 'Trebuchet MS';">Sense and Sensibility&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/sense-and-sensibility.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
 </tbody>
 </table>
