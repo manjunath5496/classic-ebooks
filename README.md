@@ -551,5 +551,8 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Troilus and Criseyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Troilus%20And%20Criseyde.pdf">[pdf]</a>&nbsp;&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">A History of the United States&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/A%20History%20Of%20The%20United%20States.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
