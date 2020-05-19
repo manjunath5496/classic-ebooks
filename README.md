@@ -437,22 +437,22 @@
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td>
 <p><span style="font-family: 'Trebuchet MS';">Jane Eyre&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Jane%20Eyre.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td>
 <p><span style="font-family: 'Trebuchet MS';">Shirley&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Shirley.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td>
 <p><span style="font-family: 'Trebuchet MS';">The Professor&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Professor.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td>
 <p><span style="font-family: 'Trebuchet MS';">Villette&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Villette.pdf">[pdf]</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
