@@ -983,5 +983,12 @@
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Thoughts on Art and Life&nbsp;&nbsp;&nbsp;<a href="1/Thoughts%20On%20Art%20And%20Life.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Don Quixote Volume 1&nbsp;&nbsp;&nbsp;<a href="1/Don%20Quixote%20Volume%201.pdf">[pdf]</a>&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'Trebuchet MS';">Don Quixote Volume 2&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Don%20Quixote%20Volume%202.pdf">[pdf]</a>&nbsp;</span></td>
+</tr>
 </tbody>
 </table>
+
