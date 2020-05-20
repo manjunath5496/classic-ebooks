@@ -3730,4 +3730,175 @@
 </tr>
 </tbody>
 </table>
-
+</br>
+<table>
+<tbody>
+<tr>
+<td>
+<p><u><strong><span style="font-family: 'Trebuchet MS';">New Testament<br /><br /></span></strong></u></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">St. Matthew's Gospel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="1.%20(Matthew).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">St. Mark's Gospel&nbsp;</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="2.%20(Mark).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">St. Luke's Gospel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="3.%20(Luke).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">St. John's Gospel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="4.(John).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Acts of the Apostles</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="5.%20(Acts).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Romans</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="6.%20(Romans).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">1st Epistle to the Corinthians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;</span><a href="7.%20(1%20Corinthians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">2nd Epistle to the Corinthians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="8.%20(2%20Corinthians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Galatians</span></p>
+<p><span style="font-family: 'Trebuchet MS';">&nbsp;&nbsp;<a href="9.%20(Galatians).pdf">PDF</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Ephesians&nbsp;</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="10.%20(Ephesians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Philippians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="11.%20(Philippians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Colossians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="12.%20(Colossians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">1st Epistle to the Thessalonians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="13.%20(1%20Thessalonians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">2nd Epistle to the Thessalonians</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="14.%20(2%20Thessalonians).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">First Epistle to Timothy</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="15.%20(1%20Timothy).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Second Epistle to Timothy</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="16.%20(2%20Timothy).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to Titus</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="17.%20(Titus).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to Philemon</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="18.%20(Philemon).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle to the Hebrews</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="19.%20(Hebrews).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle of James</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="20.%20(James).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">First Epistle of Peter</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp; &nbsp;&nbsp;</span><a href="21.%20(1%20Peter).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Second Epistle of Peter</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="22.%20(2%20Peter).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">First Epistle of John</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="23.%20(1%20John).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Second Epistle of John</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="24.%20(2%20John).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Third Epistle of John</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="25.%20(3%20John).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Epistle of Jude</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="26.%20(Jude).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Revelation (Apocalypse)</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span><a href="27.%20(Revelation).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
