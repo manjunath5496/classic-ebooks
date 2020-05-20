@@ -686,7 +686,7 @@
 </tr>
 <tr>
 <td>
-<p><span style="font-family: 'Trebuchet MS';">The Trees of Pride&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Trees%20of%20Pride.pdf">PDF</a>&nbsp;&nbsp;<a href="https://www.freeclassicebooks.com/2019%20New%20Free%20Classic%20ebooks/A-C/Chesterton%20G%20K/prc/The%20Trees%20of%20Pride.prc">[Kinde / prc]</a></span></p>
+<p><span style="font-family: 'Trebuchet MS';">The Trees of Pride&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/The%20Trees%20of%20Pride.pdf">PDF</a>&nbsp;&nbsp;</span></p>
 </td>
 </tr>
 <tr>
