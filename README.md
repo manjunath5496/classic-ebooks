@@ -1962,7 +1962,7 @@
 <td><span style="font-family: 'Trebuchet MS';">John Marr and Other Poems&nbsp;&nbsp;&nbsp;<a href="1/John%20Marr%20And%20Other%20Poems.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
-<td><span style="font-family: 'Trebuchet MS';">Mardi and A Voyage Thither - Vol I&nbsp;&nbsp;&nbsp;<a href="1/Mardi%20%20And%20A%20Voyage%20Thither%20-%20Vol%20I.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'Trebuchet MS';">Mardi and A Voyage Thither - Vol I&nbsp;&nbsp;&nbsp;<a href="1/Mardi And A Voyage Thither - Vol I.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Mardi and A Voyage Thither Vol II&nbsp;&nbsp;&nbsp;<a href="1/Mardi%20And%20A%20Voyage%20Thither%20Vol%20II.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
