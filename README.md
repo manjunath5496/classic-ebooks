@@ -2844,7 +2844,7 @@
 <td><span style="font-family: 'Trebuchet MS';">Eve's Diary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Eves%20Diary.pdf">PDF</a>&nbsp;&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
-<td><span style="font-family: 'Trebuchet MS';">Fenimore Cooper's Literary Offences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Fenimore%20Cooper's%20Literary%20%20Offences.pdf">PDF</a>&nbsp;&nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'Trebuchet MS';">Fenimore Cooper's Literary Offences&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/f1.pdf">PDF</a>&nbsp;&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Following the Equator&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Following%20the%20Equator.pdf">PDF</a>&nbsp;&nbsp;</span></td>
