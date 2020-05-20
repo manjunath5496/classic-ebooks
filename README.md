@@ -954,7 +954,7 @@
 <td><span style="font-family: 'Trebuchet MS';">Goody Two Shoes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Goody%20Two%20Shoes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
-<td><span style="font-family: 'Trebuchet MS';">Mother Gooses Nursery Rhymes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mother%2520Goose%3Bs%2520Nursery%2520Rhymes.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'Trebuchet MS';">Mother Gooses Nursery Rhymes&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Mother Goose.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
 </tr>
 <tr>
 <td><span style="font-family: 'Trebuchet MS';">Princess Belle&nbsp;&nbsp;&nbsp;&nbsp;<a href="1/Princess%20Belle.pdf">[pdf]</a>&nbsp;&nbsp;</span></td>
