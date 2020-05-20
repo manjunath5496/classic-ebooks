@@ -3485,4 +3485,249 @@
 </tbody>
 </table>
 
+</br>
+
+<table border="1" width="101%">
+<tbody>
+<tr>
+<td>
+<p><u><strong><span style="font-family: 'Trebuchet MS';">Old Testament<br /><br /></span></strong></u></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Genesis</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/1.%20(Genesis).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Exodus</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/2.%20(Exodus).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Leviticus</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/3.%20(Leviticus).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Numbers</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/4.%20(Numbers).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Deuteronomy</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/5.%20(Deuteronomy).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Joshua</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/6.%20(Joshua).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Judges</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/7.%20(Judges).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Ruth</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/8.%20(Ruth).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">1 Samuel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/9.%20(1%20Samuel).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">2 Samuel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/10.%20(2%20Samuel).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">1 Kings</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;</span><a href="1/11.%20(1%20Kings).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">2 Kings</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/12.%20(2%20Kings).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">1 Chronicles</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;</span><a href="1/13.%20(1%20Chronicles).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">2 Chronicles</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/14.%20(2%20Chronicles).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Ezra</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/15.(Ezra).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Nehemiah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/16.(Nehemiah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Esther</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/17.%20(Esther).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Job</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/18%20(Job).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Psalms</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/19.%20(Psalms).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Proverbs</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/20.%20(Proverbs).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Ecclesiastes</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;</span><a href="1/21.%20(Ecclesiastes).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Song of Solomon</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/22.%20(Song%20of%20Solomon).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Isaiah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/23.%20(Isaiah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Jeremiah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/24.%20(Jeremiah).pdf"><span style="color: #0000ff;">[pdf</span></a><span style="color: #0000ff;">]&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Lamentations</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/25.%20(Lamentations).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Ezekiel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;</span><a href="1/26.%20(Ezekiel).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Daniel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/27.%20(Daniel).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Hosea</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/28.%20(Hosea).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Joel</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/29.%20(Joel).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Amos</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/30.%20(Amos).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Obadiah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/31.%20(Obadiah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Jonah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/32.%20(Jonah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Micah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/33.%20(Micah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Nahum</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/34.%20(Nahum).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Habakkuk</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/35.%20(Habakkuk).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Zephaniah</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/36.%20(Zephaniah).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Haggai</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/37.%20(Haggai).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Zechariah</span></p>
+<p><span style="font-family: 'Trebuchet MS';">&nbsp;&nbsp;<a href="1/38.%20(Zechariah).pdf">PDF</a>&nbsp;&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'Trebuchet MS';">Malachi</span></p>
+<p><span style="font-family: 'Trebuchet MS';"><span style="color: #0000ff;">&nbsp;&nbsp;</span><a href="1/39.%20(Malachi).pdf"><span style="color: #0000ff;">PDF</span></a><span style="color: #0000ff;">&nbsp;&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
