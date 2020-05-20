@@ -3487,7 +3487,7 @@
 
 </br>
 
-<table border="1" width="101%">
+<table>
 <tbody>
 <tr>
 <td>
